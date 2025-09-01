@@ -3,12 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP DASAR</title>
+    <title>Document</title>
 </head>
 <body>
-    <?php $nama = "Alifhia";
-        $umur = 16;
-    ?>
-    <h1>Selamat Datang,<?php echo $nama;  $umur; ?>!</h1>
+    Ini Halaman About
 </body>
 </html>
