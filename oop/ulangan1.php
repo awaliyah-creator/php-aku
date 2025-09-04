@@ -52,7 +52,6 @@ class TagihanListrik {
     }
 }
 
-// Proses form
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $nama = $_POST['nama'];
     $pemakaian = $_POST['pemakaian'];
